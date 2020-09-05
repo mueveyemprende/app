@@ -1,0 +1,172 @@
+2018-05-05 12:26:19,473 [92] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-05 12:26:19,514 [92] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-57M46738TB2851038
+
+2018-05-05 12:28:48,002 [92] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-05 12:28:48,052 [92] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-3LS55739VN521171S
+
+2018-05-05 12:29:19,713 [92] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-05 12:29:19,721 [92] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-25X3776840513091X
+
+2018-05-05 13:06:59,563 [96] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - FAILURE
+
+2018-05-05 13:06:59,590 [96] DEBUG SetExpressCheckout [(null)] API Error Message : Security header is not valid
+2018-05-05 13:06:59,631 [96] DEBUG SetExpressCheckout [(null)] Error Message : Error al ejecutar la solicitud secundaria para ~/Response.aspx.
+2018-05-05 13:07:13,457 [54] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - FAILURE
+
+2018-05-05 13:07:13,459 [54] DEBUG SetExpressCheckout [(null)] API Error Message : Security header is not valid
+2018-05-05 13:07:13,528 [54] DEBUG SetExpressCheckout [(null)] Error Message : Error al ejecutar la solicitud secundaria para ~/Response.aspx.
+2018-05-05 13:11:02,955 [97] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - FAILURE
+
+2018-05-05 13:11:02,958 [97] DEBUG SetExpressCheckout [(null)] API Error Message : Security header is not valid
+2018-05-05 13:11:02,988 [97] DEBUG SetExpressCheckout [(null)] Error Message : Error al ejecutar la solicitud secundaria para ~/Response.aspx.
+2018-05-05 13:18:23,963 [54] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - FAILURE
+
+2018-05-05 13:18:23,965 [54] DEBUG SetExpressCheckout [(null)] API Error Message : Security header is not valid
+2018-05-05 13:18:23,967 [54] DEBUG SetExpressCheckout [(null)] Error Message : Error al ejecutar la solicitud secundaria para ~/Response.aspx.
+2018-05-05 13:25:04,489 [56] DEBUG SetExpressCheckout [(null)] Error Message : Failed to load the certificate file
+2018-05-05 13:28:44,739 [56] DEBUG SetExpressCheckout [(null)] Error Message : Failed to load the certificate file
+2018-05-05 14:04:07,284 [24] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-05 14:04:07,309 [24] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-00486411UY756425M
+
+2018-05-05 21:07:34,241 [53] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-05 21:07:34,295 [53] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-3WX54359SK745045E
+
+2018-05-06 09:52:09,271 [64] DEBUG SetExpressCheckout [(null)] Error Message : Failed to load the certificate file
+2018-05-06 10:03:55,399 [8] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:03:55,438 [8] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-7HJ93455U61674546
+
+2018-05-06 10:04:33,908 [6] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:04:33,910 [6] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-1PK2112203522231E
+
+2018-05-06 10:09:23,642 [6] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:09:23,662 [6] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-0MP57047XY738705W
+
+2018-05-06 10:15:22,694 [22] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:15:22,720 [22] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-7US57054T6121770H
+
+2018-05-06 10:15:41,388 [27] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:17:21,349 [27] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:17:21,351 [27] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-3NB65438NE373523F
+
+2018-05-06 10:18:19,474 [22] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:18:19,484 [22] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-29A336691E793682M
+
+2018-05-06 10:18:32,015 [27] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:18:33,972 [32] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:18:33,974 [32] INFO  dopagopaypal [(null)] Transaction ID : 90M6566550661715G
+
+2018-05-06 10:28:47,069 [19] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:28:47,070 [19] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-0P5902373H9516443
+
+2018-05-06 10:29:09,934 [5] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:30:12,820 [19] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:30:12,822 [19] INFO  dopagopaypal [(null)] Transaction ID : 3E407609K68243047
+
+2018-05-06 10:35:20,622 [5] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:35:20,663 [5] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-85066517EY2267615
+
+2018-05-06 10:35:35,568 [19] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:36:07,947 [19] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:36:07,949 [19] INFO  dopagopaypal [(null)] Transaction ID : 6V372597V9894282C
+
+2018-05-06 10:37:06,012 [19] DEBUG dopagopaypal [(null)] Error Message : La conversión del tipo 'DBNull' en el tipo 'String' no es válida.
+2018-05-06 10:38:36,654 [14] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:38:36,671 [14] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-47E77306R46840547
+
+2018-05-06 10:39:11,162 [39] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:39:23,425 [39] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:39:23,427 [39] INFO  dopagopaypal [(null)] Transaction ID : 27E03447DV073760V
+
+2018-05-06 10:40:08,376 [39] DEBUG dopagopaypal [(null)] Error Message : La conversión del tipo 'DBNull' en el tipo 'String' no es válida.
+2018-05-06 10:41:38,183 [14] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:41:38,191 [14] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-05055505426816031
+
+2018-05-06 10:41:58,426 [14] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:42:19,224 [14] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:42:19,235 [14] INFO  dopagopaypal [(null)] Transaction ID : 5J283476595656626
+
+2018-05-06 10:43:41,568 [14] DEBUG dopagopaypal [(null)] Error Message : La conversión del tipo 'DBNull' en el tipo 'String' no es válida.
+2018-05-06 10:44:23,921 [39] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:44:23,923 [39] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-2SP10684EU8079433
+
+2018-05-06 10:44:35,940 [39] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:44:39,426 [16] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:44:39,428 [16] INFO  dopagopaypal [(null)] Transaction ID : 3BR35363GC838940G
+
+2018-05-06 10:45:22,284 [16] DEBUG dopagopaypal [(null)] Error Message : La conversión del tipo 'DBNull' en el tipo 'String' no es válida.
+2018-05-06 10:45:45,473 [39] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-06 10:45:45,475 [39] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-2CH71992PF025874M
+
+2018-05-06 10:45:56,601 [39] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-06 10:45:58,709 [39] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-06 10:45:58,711 [39] INFO  dopagopaypal [(null)] Transaction ID : 3WM7176493821984C
+
+2018-05-10 17:30:44,203 [20] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-05-10 17:30:45,202 [20] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-2SA40885CF328142B
+
+2018-05-10 17:31:06,088 [33] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2018-05-10 17:31:07,889 [17] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2018-05-10 17:31:07,889 [17] INFO  dopagopaypal [(null)] Transaction ID : 1KT7879217067953B
+
+2018-07-05 12:20:26,470 [42] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2018-07-05 12:20:26,530 [42] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-82P28465EN733701G
+
+2020-08-22 15:50:25,877 [34] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2020-08-22 15:50:25,893 [34] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-4UW74599YR4250823
+
+2020-08-24 17:53:43,816 [40] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2020-08-24 17:53:43,832 [40] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-0HG918453H0777832
+
+2020-08-24 18:15:19,319 [8] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2020-08-24 18:15:19,334 [8] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-6MR198618S2909647
+
+2020-08-24 18:15:41,388 [10] INFO  PoolinPayPal [(null)] GetExpressCheckoutDetails API Operation - SUCCESS
+
+2020-08-24 18:15:46,997 [8] INFO  dopagopaypal [(null)] DoExpressCheckoutPayment API Operation - SUCCESS
+
+2020-08-24 18:15:47,001 [8] INFO  dopagopaypal [(null)] Transaction ID : 0D2874720B0852231
+
+2020-08-24 18:16:13,477 [8] DEBUG dopagopaypal [(null)] Error Message : Error al enviar correo.
+2020-08-30 13:48:37,545 [15] DEBUG SetExpressCheckout [(null)] SetExpressCheckout API Operation - SUCCESS
+
+2020-08-30 13:48:37,561 [15] INFO  SetExpressCheckout [(null)] Express Checkout Token : EC-3TU74062XW248803H
+
